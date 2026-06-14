@@ -1,0 +1,5 @@
+{
+  "name": "ent",
+  "close_apps": ["Notion.exe", "Zed.exe", "Brave.exe"],
+  "launch_apps": ["C:/Users/Samuel/Desktop/Firefox.exe"]
+}

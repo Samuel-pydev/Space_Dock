@@ -1,0 +1,6 @@
+{
+  "name": "code",
+  "close_apps": ["Firefox.exe", "Telegram.exe", "Spotify.exe"],
+  "launch_apps": ["Zed.exe", "C:/Users/Samuel/AppData/Local/Programs/Notion/Notion.exe", "C:/Program Files/BraveSoftware/Brave-Browser/Application/brave.exe"]
+}
+    
